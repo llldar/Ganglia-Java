@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.rrd4j:rrd4j:2.0.7" type="repository">
+    <properties maven-id="org.rrd4j:rrd4j:2.0.7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/rrd4j-2.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
